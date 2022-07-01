@@ -43,7 +43,7 @@ Install [Nodejs](https://nodejs.org/en/) from the official site.
 
 ### Installation
 
-_Follow the following steps to install and setup the virtual environment._
+_Follow the following steps to install and setup the environment._
 
 1. Clone the repo
    ```sh
