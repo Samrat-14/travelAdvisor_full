@@ -90,4 +90,4 @@ Live Demo: [https://samrat-travel-advisor.netlify.app](https://samrat-travel-adv
 
 ## Contact
 
-Your Name - [Samrat Sadhu](https://samrat-14.github.io/my-portfolio/) - ss2414@ece.jgec.ac.in
+[Samrat Sadhu](https://samrat-14.github.io/my-portfolio/) - ss2414@ece.jgec.ac.in
